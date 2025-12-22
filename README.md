@@ -5,8 +5,6 @@
 - 사이트 : [동구라미 웹페이지에서 보기 ](https://donggurami.net/)
 - 앱 스토어: [iOS 앱 스토어에서 보기](https://apps.apple.com/kr/app/%EB%8F%99%EA%B5%AC%EB%9D%BC%EB%AF%B8/id6692607046)
 ---
-<br></br>
-
 ### 🟡 프로젝트 개요 
 
 - **프로젝트 이름** : 동구라미
