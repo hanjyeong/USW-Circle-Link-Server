@@ -4,57 +4,55 @@
 
 # 사이트: https://donggurami.net/
 
-## 🟡 Project Overview
+### 🟡 프로젝트 개요 
 
 - 프로젝트 이름: 동구라미
+- 프로젝트 개발 배경: 
 - 프로젝트 목적: 반복적인 동아리 모집과 지원 절차를 간소화하여 수원대학교 학생들이 동아리 활동을 더 편리하게 이용할 수 있도록 개선하였습니다.
 
 ---
 
-## 🟡 Team
+### 🟡 팀 구성 
 
-- 팀 이름: 동구라미
-- 팀 구성:
-
-## 🟡 BE - web/ mobile, 4명
+### 🟡 BE - web/ mobile, 4명
 
 | 김지오 | 남궁다연 | 방혁 | 한지형 |
 |:-----------:|:-----------:|:-----------:|:-----------:|
 
-## 🟡 Design, 1명
+### 🟡 Design, 1명
 | 이보영 |
 |:-----------:|
 
-## 🟡 FE - web, 4명
+### 🟡 FE - web, 4명
 
 | 이동수 | 박성재 | 노경미 | 김수민 |
 |:-----------:|:-----------:|:-----------:|:-----------:|
 
-## 🟡 FE - mobile, 3명
+### 🟡 FE - mobile, 3명
 
 | 정우창 | 유지석 | 이수빈 |
 |:-----------:|:-----------:|:-----------:|
 
 ---
 
-## 🟡 Key Features
+### 🟡 주요 기능 
 
-동아리 지원자
+**동아리 지원자**
    - 동아리 지원
    - 동아리 지원 결과 푸시 알림
 
-동아리 회장
+**동아리 회장**
    - 동아리 관리
    - 동아리 지원자 합격 관리 - 합격/불합격
 
-중앙 동아리 연합회
+**중앙 동아리 연합회**
    - 중앙 동아리 관리 - 추가, 삭제
 
 ---
 
-## 🟡 Technology Stack
+### 🟡 기술 스택 
 
-## 👉🏻 BE
+### 👉🏻 BE
 
 <table>
   <tr>
@@ -90,7 +88,7 @@
   
 </table>
 
-## 👉🏻 Cooperation
+### 👉🏻 협업 툴 
 
 <table>
   <tr>
@@ -105,7 +103,7 @@
 
 ---
 
-## 🟡 Past Presentation Slides
+### 🟡 Past Presentation Slides
 <img width="1024" height="576" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_2" src="https://github.com/user-attachments/assets/3b28aefd-2e00-411a-bdeb-36e3b59abb15" />
 <img width="1024" height="576" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_3" src="https://github.com/user-attachments/assets/38f50db3-be81-4fce-af2a-a5da7b6b1f92" />
 <img width="1024" height="576" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_4" src="https://github.com/user-attachments/assets/856db597-d0d4-4804-8f2f-787f83276b89" />
@@ -113,7 +111,7 @@
 
 ---
 
-## 🟡 Function Description
+### 🟡 Function Description
 
 ### 🟡 동아리 지원자
 
