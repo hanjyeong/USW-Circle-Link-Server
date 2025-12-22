@@ -113,7 +113,7 @@
 ---
 ### 🟡 프로젝트 시스템 아키텍쳐
 
-<img width="573" height="562" alt="Image" src="https://github.com/user-attachments/assets/be223318-8d08-4e2a-b25e-fc15b40e19d5" />
+<img width="802" height="425" alt="Image" src="https://github.com/user-attachments/assets/af95256c-bc91-4ae6-abc4-9480c33ad63c" />
 ---
 
 
