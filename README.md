@@ -2,21 +2,28 @@
   <img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/5e9f9dcd-717a-4f33-843b-4a1d985e53b4" />
 </p>
 
-# 사이트: https://donggurami.net/
+- 사이트 : [동구라미 웹페이지에서 보기 ](https://donggurami.net/)
+- 앱 스토어: [iOS 앱 스토어에서 보기](https://apps.apple.com/kr/app/%EB%8F%99%EA%B5%AC%EB%9D%BC%EB%AF%B8/id6692607046)
+
+<br></br>
 
 ### 🟡 프로젝트 개요 
 
-- 프로젝트 이름: 동구라미
-- 프로젝트 목적: 반복적인 동아리 모집과 지원 절차를 간소화하여 수원대학교 학생들이 동아리 활동을 더 편리하게 이용할 수 있도록 개선하였습니다.
-- 프로젝트 개발 배경:
+- **프로젝트 이름** : 동구라미
+- **프로젝트 목적** : 반복적인 동아리 모집과 지원 절차를 간소화하여 수원대학교 학생들이 동아리 활동을 더 편리하게 이용할 수 있도록 하였습니다.
 
-<img width="1024" height="576" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_2" src="https://github.com/user-attachments/assets/3b28aefd-2e00-411a-bdeb-36e3b59abb15" />
-<img width="1024" height="576" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_3" src="https://github.com/user-attachments/assets/38f50db3-be81-4fce-af2a-a5da7b6b1f92" />
-<img width="1024" height="576" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_4" src="https://github.com/user-attachments/assets/856db597-d0d4-4804-8f2f-787f83276b89" />
+- **프로젝트 기획 배경**
+
+<img width="717" height="403" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_2" src="https://github.com/user-attachments/assets/3b28aefd-2e00-411a-bdeb-36e3b59abb15" />
+<img width="717" height="403" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_3" src="https://github.com/user-attachments/assets/38f50db3-be81-4fce-af2a-a5da7b6b1f92" />
+<img width="717" height="403" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_4" src="https://github.com/user-attachments/assets/856db597-d0d4-4804-8f2f-787f83276b89" />
+
 
 ---
 
 ### 🟡 팀 구성 
+
+
 
 ### BE - web/ mobile, 4명
 
@@ -105,24 +112,32 @@
   
 </table>
 
-<img width="1024" height="576" alt="1764634872708-9e099a3d-9e60-4bc8-aeda-e781d793c57d_9" src="https://github.com/user-attachments/assets/d33699a8-8f71-42a9-bc58-843660a6ebb4" />
+---
+### 🟡 프로젝트 시스템 아키텍쳐
+
+![Image](https://github.com/user-attachments/assets/05889314-aec9-4d88-9bc3-e7a16930c472)
+
+---
 
 
 ### 🟡 실제 서비스 화면 
-
 #### **동아리 지원자**
 
-<img width="250" height="812" alt="메인페이지 " src="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc" />
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc">
+    <img width="220" alt="메인페이지" src="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680">
+    <img width="220" alt="동아리 지원하기" src="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949">
+    <img width="220" alt="푸시 알림" src="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949" />
+  </a>
+</p>
 
-- 동아리 조회
-
-<img width="250" height="985" alt="동아리 지원하기" src="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680" />
-
-- 동아리 지원
-
-<img width="250" height="852" alt="푸시 알림" src="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949" />
-
-- 지원 결과 알림
+<p align="center">
+  <b>동아리 조회</b> &nbsp; | &nbsp; <b>동아리 지원</b> &nbsp; | &nbsp; <b>지원 결과 알림</b>
+</p>
 
 ---
 
@@ -138,5 +153,3 @@
 - 동아리 추가 / 삭제
 
 ---
-
-# 🟡감사합니다!🟡
