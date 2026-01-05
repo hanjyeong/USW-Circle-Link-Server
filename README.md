@@ -4,6 +4,7 @@
 
 - 사이트 : [동구라미 웹페이지에서 보기 ](https://donggurami.net/)
 - 앱 스토어: [iOS 앱 스토어에서 보기](https://apps.apple.com/kr/app/%EB%8F%99%EA%B5%AC%EB%9D%BC%EB%AF%B8/id6692607046)
+
 ---
 ### 🟡 프로젝트 개요 
 
@@ -18,7 +19,6 @@
 
 
 ---
-
 ### 🟡 팀 구성 
 
 
@@ -42,9 +42,40 @@
 | 정우창 | 유지석 | 이수빈 |
 |:-----------:|:-----------:|:-----------:|
 
+--- 
+### 🟡 실제 서비스 화면 
+#### **동아리 지원자**
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc">
+    <img width="220" alt="메인페이지" src="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680">
+    <img width="220" alt="동아리 지원하기" src="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949">
+    <img width="220" alt="푸시 알림" src="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949" />
+  </a>
+</p>
+
+<p align="center">
+  <b>동아리 조회</b> &nbsp; | &nbsp; <b>동아리 지원</b> &nbsp; | &nbsp; <b>지원 결과 알림</b>
+</p>
+
 ---
 
-### 🟡 주요 기능 
+#### **동아리 회장**
+- 동아리 정보 관리
+- 지원자 관리
+- 합격 / 불합격 처리
+
+#### **중앙 동아리 연합회**
+- 전체 동아리 관리  
+- 동아리 추가 / 삭제
+
+---
+
+### 🟡 주요 기능 정리 
 
 **동아리 지원자**
    - 동아리 지원
@@ -116,38 +147,11 @@
 <img width="802" height="425" alt="Image" src="https://github.com/user-attachments/assets/af95256c-bc91-4ae6-abc4-9480c33ad63c" />
 
 ---
+### 🟡 ERD
 
 
-### 🟡 실제 서비스 화면 
-#### **동아리 지원자**
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc">
-    <img width="220" alt="메인페이지" src="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc" />
-  </a>
-  <a href="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680">
-    <img width="220" alt="동아리 지원하기" src="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680" />
-  </a>
-  <a href="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949">
-    <img width="220" alt="푸시 알림" src="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949" />
-  </a>
-</p>
 
-<p align="center">
-  <b>동아리 조회</b> &nbsp; | &nbsp; <b>동아리 지원</b> &nbsp; | &nbsp; <b>지원 결과 알림</b>
-</p>
 
----
-
-#### **동아리 회장**
-- 동아리 정보 관리
-- 지원자 관리
-- 합격 / 불합격 처리  
-
----
-
-#### **중앙 동아리 연합회**
-- 전체 동아리 관리  
-- 동아리 추가 / 삭제
 
 ---
