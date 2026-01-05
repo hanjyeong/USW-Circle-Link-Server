@@ -187,5 +187,13 @@
 
 ### 📌 트러블 슈팅 및 해결과정 
 
+- 이메일 전송이 되지 않는 문제 : stpm 서버 설정 오류
+- bucket 4j 라이브러리 적용 과정에서 겪었던 어려움, bucket4j를 선택한 이유?
+- springScheduler → redis 적용 과정
+- emailToken이 생성 되지 않는 문제 → 트랜잭션 문제
+- 테이블 연관 관계에 따라 회원 탈퇴 시 데이터가 삭제 되지 않았던 문제
+- javamailSender에서 bean이 생성되지 않는 문제 → mainconfig 설정 방법
+- auto-increment 초기화와 db 부하 
+
 ---
 ### 📌 느낀점 및 회고 
