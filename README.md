@@ -51,7 +51,53 @@
     <img width="220" alt="메인페이지" src="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc" />
   </a>
   <a href="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680">
-    <img width="220" alt="동아리 지원하기여 인증 코드 저장 및 TTL(Time To Live) 설정
+    <img width="220" alt="동아리 지원하기" src="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949">
+    <img width="220" alt="푸시 알림" src="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949" />
+  </a>
+</p>
+
+<p align="center">
+  <b>동아리 조회</b> &nbsp; | &nbsp; <b>동아리 지원</b> &nbsp; | &nbsp; <b>지원 결과 알림</b>
+</p>
+
+   - 동아리 지원
+   - 동아리 지원 결과 푸시 알림
+   - 소속된 동아리, 공지사항 확인 
+
+#### **동아리 회장**
+- 동아리 정보 관리(엑셀 파일)
+- 지원자 관리
+- 합격 / 불합격 처리
+
+#### **중앙 동아리 연합회**
+- 전체 동아리 관리  
+- 동아리 추가 / 삭제
+
+---
+
+### 📌 주요 기능 정리 
+- **학교 웹 메일을 통한 회원가입**
+    - 학생 전용 인증 구현 (SMTP, 이메일 검증), JWT 토큰 기반 인증 관리
+- **동아리 모집 상태 확인**
+    - 모집중/모집 완료 상태 API , DB 쿼리 최적화 (JPA/Hibernate)
+- **동아리 지원서 작성 및 제출**
+    - 지원서 CRUD API, 입력 검증 및 트랜잭션 처리
+- **관심 동아리 필터링**
+    - 검색/필터 API 구현 (분야, 모집 상태 기준), 효율적 데이터 조회 위해 인덱싱 사용
+- **공지사항 확인**
+    - 동아리별 공지사항 API , 관계형 DB 설계 (동아리-공지사항 1:N)
+- **합격/불합격 푸시 알림 전송**
+    - 비동기 알림 처리 (스케줄링/큐), Firebase Cloud Messaging 
+
+---
+### 📌 담당 기능 및 적용 기술
+
+- **이메일 전송 기반 인증 기능 구현**
+    - Spring Mail을 활용한 이메일 발송 로직 구현
+    - 인증 코드 생성 및 만료 시간 관리
+    - Redis를 이용해 인증 코드 저장 및 TTL(Time To Live) 설정
     - 회원가입, 아이디/비밀번호 찾기, 회원 탈퇴 등 인증 로직 구현 
 - **API 요청 횟수 제한(Rate Limiting)**
     - Bucket4j 라이브러리를 적용하여 API별 요청 횟수 제한
