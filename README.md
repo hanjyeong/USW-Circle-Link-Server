@@ -21,8 +21,7 @@
 - 6. [ERD](#6-erd)
 - 7. [트러블 슈팅 및 해결과정](#7-트러블-슈팅-및-해결과정)
 - 8. [팀 구성](#8-팀-구성)
-- 9. [실제 서비스 화면](#9-실제-서비스-화면)
-- 10. [느낀점 및 회고](#10-느낀점-및-회고)
+- 9. [느낀점 및 회고](#10-느낀점-및-회고)
 
 ---
 
@@ -135,17 +134,5 @@
 
 ---
 
-## 9. 실제 서비스 화면
-<p align="center">
-  <img width="220" alt="메인페이지" src="https://github.com/user-attachments/assets/fea786a1-5138-40c1-a618-fa3a9877cefc" />
-  <img width="220" alt="동아리 지원하기" src="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680" />
-  <img width="220" alt="푸시 알림" src="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949" />
-</p>
-<p align="center">
-  <b>[동아리 조회]</b> &nbsp; | &nbsp; <b>[동아리 지원]</b> &nbsp; | &nbsp; <b>[지원 결과 알림]</b>
-</p>
-
----
-
-## 10. 느낀점 및 회고
+## 9. 느낀점 및 회고
 *(프로젝트 진행 중 배운 점, 성과, 아쉬운 점 등을 자유롭게 작성)*
