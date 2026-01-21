@@ -76,6 +76,18 @@
 - **검색 및 필터링**: 분야/모집 상태별 동아리 필터링 
 - **알림 서비스**: FCM을 활용한 합격/불합격 결과 푸시 알림 전송
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/82979aca-d646-4d0d-86d5-3c16da8af2de" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/1636e8e6-6adc-4abf-8275-8cf248f708f3" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/cd040548-ffed-4e82-a9a3-787af8dad334" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/eb3405b6-b30f-47f3-b738-aa36bd25bca4" width="200"></td>
+    <td><img width="220" alt="동아리 지원하기" src="https://github.com/user-attachments/assets/6ec554bb-4bf3-4dd4-8120-453a70543680" /></td>
+    <td><img src="https://github.com/user-attachments/assets/18ea63a6-118f-4755-af1f-246ff73906b8" width="200"></td>
+    <td><img width="220" alt="푸시 알림" src="https://github.com/user-attachments/assets/b68ff716-8cca-4a37-9761-1c2370e88949" /></td>
+  </tr>
+</table>
+
 ---
 
 ## 5. 담당 기능 및 적용 기술
