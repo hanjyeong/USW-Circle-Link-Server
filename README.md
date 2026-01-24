@@ -95,7 +95,7 @@
     - 인증 코드 생성 및 TTL 관리 (Redis)
     - 회원가입, 아이디/비밀번호 찾기, 회원 탈퇴 인증 처리
 - **API 요청 횟수 제한 (Rate Limiting)**
-    - Bucket4j 적용, Redis 기반 분산 환경 지원
+    - Bucket4j 적용
 - **DTO 입력값 검증 구조 설계**
     - ValidationGroup 활용, 상황별 필드 검증 분리
 - **Enum 필드값 유효성 검사**
@@ -108,12 +108,10 @@
 
 ## 7. 트러블 슈팅 및 해결과정
 - **이메일 발송 장애**: SMTP 서버 설정 오류 해결
-- **API Rate Limiting 도입**: Bucket4j 선정 이유, Redis 연동 문제 해결
+- **API Rate Limiting 도입**: Bucket4j 선정 이유, RateLimite를 설정한 이유 
 - **분산 스케줄링**: Spring Scheduler → Redis 기반 관리 체계로 전환
 - **트랜잭션 이슈**: EmailToken 생성 시점과 DB 반영 시점 불일치 문제 해결
 - **참조 무결성 오류**: 회원 탈퇴 시 연관 데이터 삭제 정책(Cascade/OrphanRemoval) 수정
-- **Bean 생성 오류**: JavaMailSender Config 클래스 충돌 해결
-- **Auto Increment 초기화 및 DB 부하 문제 개선**
 
 ---
 
