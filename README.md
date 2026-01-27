@@ -149,7 +149,7 @@
 ---
 
 ## 7. 트러블 슈팅 및 해결과정
-- **이메일 발송 장애**: SMTP 서버 설정 오류 해결
+- [javamailSender의 빈이 자동으로 생성되지 않는 에러](https://velog.io/@hanjyeong/JavamailSender%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A9%94%EC%9D%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-%EB%B3%B4%EB%82%B4%EA%B8%B0) 
 - **API Rate Limiting 도입**: Bucket4j 선정 이유, RateLimite를 설정한 이유 
 - **분산 스케줄링**: Spring Scheduler → Redis 기반 관리 체계로 전환
 - **트랜잭션 이슈**: EmailToken 생성 시점과 DB 반영 시점 불일치 문제 해결
