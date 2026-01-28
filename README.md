@@ -153,7 +153,7 @@
 * **트러블 슈팅 및 이슈 해결**
   - [JavaMailSender 자동 빈 등록 실패 → 수동 Bean 등록으로 해결](https://velog.io/@hanjyeong/Spring-Data-Jpa-JavamailSender-%EB%B9%88-%EC%83%9D%EC%84%B1-%EC%98%A4%EB%A5%98)
   - [메서드 이름 규칙 불일치로 발생한 ClassCastException 해결](https://velog.io/@hanjyeong/QueryTypeMismatchExceptionjpa-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%9D%B4%EB%A6%84-%EA%B7%9C%EC%B9%99)
-  - **트랜잭션 이슈**: EmailToken 생성 시점과 DB 반영 시점 불일치 문제 해결
+  - [트랜잭션 전파(REQUIRED)로 하위 변경이 상위 롤백에 묶인 문제 해결](https://velog.io/@hanjyeong/Spring-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98-%EC%A4%91%EC%B2%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EB%AC%B8%EC%A0%9C)
   - **참조 무결성 오류**: 회원 탈퇴 시 연관 데이터 삭제 정책(Cascade/OrphanRemoval) 수정
  
 * **운영 안정화 및 성능 최적화**
