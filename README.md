@@ -151,7 +151,7 @@
 ## 7. 트러블 슈팅 및 이슈 해결과정
 
 * **트러블 슈팅 및 이슈 해결**
-  - [[Spring Mail] JavaMailSender 자동 빈 등록 실패 → 수동 Bean 등록으로 해결](https://velog.io/@hanjyeong/JavamailSender%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A9%94%EC%9D%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-%EB%B3%B4%EB%82%B4%EA%B8%B0)
+  - [[Spring Mail] JavaMailSender 자동 빈 등록 실패 → 수동 Bean 등록으로 해결](https://velog.io/@hanjyeong/Spring-Data-Jpa-JavamailSender-%EB%B9%88-%EC%83%9D%EC%84%B1-%EC%98%A4%EB%A5%98)
   - [[Spring Data JPA] 메서드 이름 규칙 불일치로 발생한 ClassCastException 해결](https://velog.io/@hanjyeong/QueryTypeMismatchExceptionjpa-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%9D%B4%EB%A6%84-%EA%B7%9C%EC%B9%99)
   - **트랜잭션 이슈**: EmailToken 생성 시점과 DB 반영 시점 불일치 문제 해결
   - **참조 무결성 오류**: 회원 탈퇴 시 연관 데이터 삭제 정책(Cascade/OrphanRemoval) 수정
