@@ -158,7 +158,8 @@
  
 * **운영 안정화 및 성능 최적화**
     - [SpringScheduler에서 Redis로 바꾸기](https://velog.io/@hanjyeong/SpringSchedeler%EC%99%80-Redis)
-    - **API Rate Limiting 도입**: Bucket4j 선정 이유, RateLimite를 설정한 이유 
+    - **API Rate Limiting 도입**: Bucket4j 선정 이유, RateLimite를 설정한 이유
+    - Dto 검증을 위한 ValidationGroup 설정 
 
 ---
 
