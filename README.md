@@ -158,7 +158,7 @@
  
 * **운영 안정화 및 성능 최적화**
     - 회원가입과 관련 도메인을 수정하게 된 이유? 
-      [SpringScheduler에서 Redis로 바꾸기]([https://velog.io/@hanjyeong/SpringSchedeler%EC%99%80-Redis](https://velog.io/@hanjyeong/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EA%B3%BC-%EA%B4%80%EB%A0%A8%EB%90%9C-%EA%B8%B0%EB%B3%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0))
+      [SpringScheduler에서 Redis로 바꾸기]((https://velog.io/@hanjyeong/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EA%B3%BC-%EA%B4%80%EB%A0%A8%EB%90%9C-%EA%B8%B0%EB%B3%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0))
     - API Rate Limiting 도입하기
     - Dto 검증을 위한 ValidationGroup 설정하기 
 
