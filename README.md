@@ -37,12 +37,6 @@
 ## 2. 프로젝트 시스템 아키텍쳐
 <img width="802" height="425" alt="System Architecture" src="https://github.com/user-attachments/assets/af95256c-bc91-4ae6-abc4-9480c33ad63c" />
 
-- AWS EC2에서 Spring Boot 애플리케이션 운영
-- RDS(MySQL) 관계형 데이터 관리
-- Redis 기반 인증 코드 관리 및 분산 환경 대응
-- Nginx 리버스 프록시 구성
-- FCM을 통한 푸시 알림 서비스
-
 ---
 
 ## 3. 기술 스택
